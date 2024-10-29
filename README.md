@@ -3,9 +3,11 @@
 ### DEMO: https://compette-template.vercel.app/
 
 Desktop:
+
 <img src="./public/images/compette1.gif" width="800">
 
 Mobile:
+
 <img src="./public/images/compette2.gif" width="250">
 
 Template name: Compette

@@ -14,7 +14,7 @@ Template name: Compette
 
 Template source: https://shaynakit.com/
 
-Project Starter: ts-nextjs-tailwind-starter
+Project Starter: [ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
 
 
 ## Getting Started

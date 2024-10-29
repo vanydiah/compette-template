@@ -1,6 +1,8 @@
 # UI Slicing Exercise
 
+![Screenshot desktop](./public/images/compette1.gif)
 
+![Screenshot mobile](./public/images/compette2.gif)
 
 Template name: Compette
 

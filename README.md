@@ -2,9 +2,11 @@
 
 ### DEMO: https://compette-template.vercel.app/
 
-![Screenshot desktop](./public/images/compette1.gif)
+Desktop:
+<img src="./public/images/compette1.gif" width="800">
 
-![Screenshot mobile](./public/images/compette2.gif)
+Mobile:
+<img src="./public/images/compette2.gif" width="250">
 
 Template name: Compette
 

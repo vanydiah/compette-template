@@ -55,16 +55,16 @@ export default function HomePage() {
                 <span className='text-yellow py-1 border-yellow border-b-2 text-xl'>Learn</span>
               </a>
               <a href='' className='p-3 block'>
-                <span className='text-grey py-1 text-xl'>Categories</span>
+                <span className='text-grey py-1 text-xl border-transparent border-b-2 hover:border-yellow hover:text-yellow transition-all duration-300 ease-out'>Categories</span>
               </a>
               <a href='' className='p-3 block'>
-                <span className='text-grey py-1 text-xl'>Stories</span>
+                <span className='text-grey py-1 text-xl border-transparent border-b-2 hover:border-yellow hover:text-yellow transition-all duration-300 ease-out'>Stories</span>
               </a>
               <a href='' className='p-3 block'>
-                <span className='text-grey py-1 text-xl'>Partner</span>
+                <span className='text-grey py-1 text-xl border-transparent border-b-2 hover:border-yellow hover:text-yellow transition-all duration-300 ease-out'>Partner</span>
               </a>
               <a href='' className='p-3 block'>
-                <span className='text-grey py-1 text-xl'>Investor</span>
+                <span className='text-grey py-1 text-xl border-transparent border-b-2 hover:border-yellow hover:text-yellow transition-all duration-300 ease-out'>Investor</span>
               </a>
             </div> : <></>}
           </div>
@@ -73,7 +73,7 @@ export default function HomePage() {
           <div>
             <div className='text-center py-10 px-4 mb-52'>
               <h1 className='text-white font-semibold text-6xl leading-tight'>Build Your Career.<br />Grow Together &amp; Faster.</h1>
-              <button className='py-3 px-9 rounded-full bg-yellow text-brown mt-9 font-medium text-base'>Explore Mine</button>
+              <button className='py-3 px-9 rounded-full bg-yellow text-brown mt-9 font-medium text-base transition-all duration-300 ease-out hover:bg-whitebase'>Explore Mine</button>
             </div>
           </div>
         </div>
@@ -105,7 +105,7 @@ export default function HomePage() {
               <li className='text-dark text-xl relative pl-10 py-4 before:w-[28px] before:h-[28px] before:border-dark before:rounded-full before:border-[1.5px] before:block before:absolute before:left-0 after:block after:absolute after:left-[5px] after:top-[21px] after:rounded-full after:w-[18px] after:h-[18px] after:bg-yellow'>24/7 Best worker support</li>
               <li className='text-dark text-xl relative pl-10 py-4 before:w-[28px] before:h-[28px] before:border-dark before:rounded-full before:border-[1.5px] before:block before:absolute before:left-0 after:block after:absolute after:left-[5px] after:top-[21px] after:rounded-full after:w-[18px] after:h-[18px] after:bg-green'>Trusted payment protection</li>
             </ul>
-            <div className='my-8'><a href='#' className='border-b border-dark text-base text-dark'>LEARN MORE ABOUT OUR BENEFIT</a></div>
+            <div className='my-8'><a href='#' className='border-b border-dark text-base text-dark transition-all duration-300 ease-out hover:bg-whitebase hover:text-brown hover:border-brown'>LEARN MORE ABOUT OUR BENEFIT</a></div>
           </div>
         </div>
       </section>
@@ -166,7 +166,7 @@ export default function HomePage() {
             <div className='mt-5'><span className='rounded-md px-3 py-2 bg-cyanlight text-cyan font-medium text-base'>FULL-TIME</span></div>
           </div>
         </div>
-        <div className='text-center'><a href='#' className='border-b border-dark text-base text-dark'>VIEW MORE INCOMING JOBS</a></div>
+        <div className='text-center'><a href='#' className='border-b border-dark text-base text-dark transition-all duration-300 ease-out hover:bg-whitebase hover:text-brown hover:border-brown'>VIEW MORE INCOMING JOBS</a></div>
       </section>
       <section className='container m-auto py-32 px-4'>
         <div className='bg-local bg-cover bg-center bg-no-repeat max-w-[750px] rounded-2xl m-auto p-10' style={{ backgroundImage: 'url(./images/bg-subscribe.png)' }}>
@@ -174,7 +174,7 @@ export default function HomePage() {
           <p className='text-center text-muted text-base'>We promise never send you a spam</p>
           <form className='relative md:rounded-r-full overflow-hidden mt-9 text-center'>
             <input type='email' placeholder='Type your email address' className='py-3 px-4 bg-white text-base w-full md:pr-[200px] border-0 rounded-lg' />
-            <button type='submit' className='md:absolute right-0 py-3 px-9 rounded-full bg-yellow text-brown font-medium text-base text-center w-[170px] mt-3 md:mt-0'>Count Me In</button>
+            <button type='submit' className='md:absolute right-0 py-3 px-9 rounded-full bg-yellow text-brown font-medium text-base text-center w-[170px] mt-3 md:mt-0 transition-all duration-300 ease-out hover:bg-whitebase'>Count Me In</button>
           </form>
         </div>
       </section>

@@ -1,5 +1,7 @@
 # UI Slicing Exercise
 
+### DEMO: https://compette-template.vercel.app/
+
 ![Screenshot desktop](./public/images/compette1.gif)
 
 ![Screenshot mobile](./public/images/compette2.gif)
